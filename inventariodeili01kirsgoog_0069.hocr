@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./inventariodeili01kirsgoog_0069.png"; bbox 0 0 4366 6052; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 370 1932 1383 2095">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 370 1932 1383 2095">
+     <span class='ocr_line' id='line_1_1' title="bbox 370 1932 1383 2095; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 370 1932 760 2094; x_wconf 87' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_2' title='bbox 870 1934 1383 2095; x_wconf 76' lang='lat' dir='ltr'>LATINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 591 2375 1162 2424">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 591 2375 1162 2424">
+     <span class='ocr_line' id='line_1_2' title="bbox 591 2375 1162 2424; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 591 2377 613 2424; x_wconf 92' lang='lat' dir='ltr'>D</span> <span class='ocrx_word' id='word_1_4' title='bbox 654 2376 767 2423; x_wconf 77' lang='lat' dir='ltr'>GRI&#39;I&#39;TI</span> <span class='ocrx_word' id='word_1_5' title='bbox 794 2376 895 2423; x_wconf 79' lang='grc' dir='ltr'>8οΤΤο</span> <span class='ocrx_word' id='word_1_6' title='bbox 919 2375 961 2422; x_wconf 81' lang='lat' dir='ltr'>LA</span> <span class='ocrx_word' id='word_1_7' title='bbox 983 2375 1162 2423; x_wconf 77' lang='lat' dir='ltr'>DIREZIONE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 524 2988 1230 3060">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 524 2988 1230 3060">
+     <span class='ocr_line' id='line_1_3' title="bbox 524 2988 1230 3060; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 524 2988 704 3058; x_wconf 79' lang='lat' dir='ltr'>ENRICO</span> <span class='ocrx_word' id='word_1_9' title='bbox 738 2988 799 3059; x_wconf 84' lang='lat' dir='ltr'>ST</span> <span class='ocrx_word' id='word_1_10' title='bbox 800 2988 1025 3060; x_wconf 80' lang='lat' dir='ltr'><strong>EVENSON</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1056 2989 1230 3058; x_wconf 75' lang='lat' dir='ltr'>Giun10re</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 872 3494 877 3543">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 872 3494 877 3543">
+     <span class='ocr_line' id='line_1_4' title="bbox 872 3494 877 3543; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 872 3494 877 3543; x_wconf 89' lang='lat' dir='ltr'>I</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2188 6052">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2188 6052">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2188 6052; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2188 6052; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
